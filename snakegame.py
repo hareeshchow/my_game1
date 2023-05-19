@@ -8,7 +8,7 @@ screen = turtle.Screen()
 screen.title('DATAFLAIR-SNAKE GAME')
 screen.setup(width=700, height=700)
 screen.tracer(0)
-turtle.bgcolor('turquoise')
+turtle.bgcolor('yellow')
 
 ##creating a border for our game
 
